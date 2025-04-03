@@ -4,10 +4,10 @@
 
 国内轻松使用 [**Claude 中文版**](https://chat.yixiaai.com) ，**无需翻墙**，**支持 Claude 3.7 sonnet 及中文版功能**   
 
-本指南为您提供全面的 **Claude 国内使用指南**，包括国内可用的 [**Claude 网页版**](https://chat.lanjing.ai)、[**Claude 国内入口**](https://chat.yixiaai.com)、[**Claude 官网替代方案**](https://chat.lanjing.ai) 和详细的使用教程，帮助您快速上手 Claude~
+本指南为您提供全面的 **Claude 国内使用指南**，包括国内可用的 [**Claude 网页版**](https://chat.lanjing.pro)、[**Claude 国内入口**](https://chat.yixiaai.com)、[**Claude 官网替代方案**](https://chat.lanjing.pro) 和详细的使用教程，帮助您快速上手 Claude~
 
 **Claude 中文版入口：[https://chat.yixiaai.com](https://chat.yixiaai.com)**   
-**Claude 镜像网站：[https://chat.lanjing.ai](https://chat.lanjing.ai)**
+**Claude 镜像网站：[https://chat.lanjing.pro](https://chat.lanjing.pro)**
 
 ---
 
@@ -36,7 +36,7 @@
 以下是我们精选的国内优质 **Claude 中文版镜像网站**，无需翻墙即可使用：
 
 - [chat.yixiaai.com](https://chat.yixiaai.com/) - **Claude 中文版**，支持 claude-3.7-sonnet、GPT-o1、o3 及 Groq-3，支持 AI 绘画，扫码即可使用。
-- [chat.lanjing.ai](https://chat.lanjing.ai/) - **Claude 中文站**，支持 claude 3.7 sonnet、Grok 3、GPT-4o、o1、o3 及 DeepSeek R1 最先进的模型，无限使用~
+- [chat.lanjing.pro](https://chat.lanjing.pro/) - **Claude 中文站**，支持 claude 3.7 sonnet、Grok 3、GPT-4o、o1、o3 及 DeepSeek R1 最先进的模型，无限使用~
 - [chat.lify.vip](https://www.yixiaai.com/) - **Claude 镜像网站**，支持 claude-3.7、claude-3.5、GPT-o1、o3 及 Groq-3，提供 AI 文件、AI PPT、AI 助手、AI 插件功能和思维导图。
 - [guide1.lanjing.ai](https://guide1.lanjing.ai/) - **ChatGPT 镜像网站**，支持 GPT-4、4o，支持 AI 绘画（Midjourney 和 Dall·E）。
 - [ai.lansejingyu.com](https://ai.lansejingyu.com/) - **ChatGPT-4 镜像网站**，支持 GPT-4、4o，使用简单便捷。
