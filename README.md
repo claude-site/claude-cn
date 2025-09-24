@@ -1,6 +1,6 @@
 # Claude 中文版：Claude国内使用指南~（支持 claude-4-sonnet，无需翻墙）【2025年9月更新】
 
-> **更新时间：2025-09-23**  
+> **更新时间：2025-09-25**  
 
 国内轻松使用 [**Claude 中文版**](https://ai.lanjingai.org) ，**无需翻墙**，**支持 Claude 4 sonnet 及中文版功能**   
 
